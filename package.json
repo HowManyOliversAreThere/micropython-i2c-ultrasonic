@@ -1,0 +1,10 @@
+{
+    "urls": [
+        [
+            "ultrasonic_i2c.py",
+            "github:HowManyOliversAreThere/micropython-i2c-ultrasonic/ultrasonic_i2c.py"
+        ]
+    ],
+    "deps": [],
+    "version": "0.1"
+}
